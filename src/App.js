@@ -1,6 +1,13 @@
 
-//import "./App.css";
+import "../src/dist/style.css";
 
-//export default App;
+const App = () => {
+    return (
+        <div className="app">
+          <h1>Testing</h1>
+  
+        </div>
+      );
+    };
 
-//Empty for now
+export default App;
