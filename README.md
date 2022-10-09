@@ -11,3 +11,31 @@
 ```
   npm run build
 ```
+
+
+### File Pathing & Dependencies
+
+```
+blog-post
+├── README.md
+├── node_modules
+├── package.json
+├── .gitignore
+├── public
+│   ├── favicon.ico
+│   ├── index.html
+│   └── manifest.json
+└── src
+    ├── dist
+        ├── style.css
+        └──style.css.map
+    ├── scss
+        ├── globals
+            ├── _boilerplate.scss
+            ├── _colors.scss
+            ├── _index.scss
+            ├── _typography.scss
+        └── style.scss
+    ├── App.js
+    └── index.js
+```
