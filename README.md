@@ -37,7 +37,7 @@ blog-post
             ├── _boilerplate.scss
             ├── _colors.scss
             ├── _index.scss
-            ├── _typography.scss
+            └── _typography.scss
         └── style.scss
     ├── App.js
     └── index.js
