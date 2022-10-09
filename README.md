@@ -4,12 +4,12 @@
 
 2. Run the server
 ```
-  npm start
+  npm start or yarn start
 ```
 
 3. For production
 ```
-  npm run build
+  npm run build or yarn build
 ```
 
 
