@@ -19,8 +19,11 @@
 blog-post
 ├── README.md
 ├── node_modules
+├── package-lock.json
 ├── package.json
 ├── .gitignore
+├── 404.html
+├── LICENSE
 ├── public
 │   ├── favicon.ico
 │   ├── index.html
