@@ -2,12 +2,17 @@
 
 1. Go to terminal and type the following command
 
-2. Run the server
+2. To download node module dependencies
+```
+  npm install
+```
+
+3. Run the server
 ```
   npm start or yarn start
 ```
 
-3. For production
+4. For production
 ```
   npm run build or yarn build
 ```
@@ -31,7 +36,7 @@ blog-post
 └── src
     ├── dist
         ├── style.css
-        └──style.css.map
+        └── style.css.map
     ├── scss
         ├── globals
             ├── _boilerplate.scss
