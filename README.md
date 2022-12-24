@@ -11,6 +11,9 @@
 ```
   npm start or yarn start
 ```
+```
+  npm install -g npm@9.2.0
+```
 
 4. For production
 ```
