@@ -24,7 +24,7 @@
 ### File Pathing & Dependencies
 
 ```
-blog-post
+my-portfolio
 ├── README.md
 ├── node_modules
 ├── package-lock.json
